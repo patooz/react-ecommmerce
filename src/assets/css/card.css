@@ -22,10 +22,10 @@
     width: 100% !important;
 }
 .image-box img {
-    width: 150px !important;
+    width: 100% !important;
     transition: all 0.3s;
     display: block;
-    height: 250px !important;
+    height: auto !important;
     transform: scale(1);
 }
 .image-box:hover img {
