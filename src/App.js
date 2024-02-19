@@ -4,10 +4,6 @@ import '../src/assets/css/custom.css';
 import {BrowserRouter} from 'react-router-dom';
 import AppRoute from "./routes/AppRoute";
 
-
-
-
-
 class App extends Component {
   render() {
     return (

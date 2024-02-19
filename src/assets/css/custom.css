@@ -9,9 +9,17 @@
 @import "navMenuDesktop.css";
 @import "navMenuMobile.css";
 @import "typo.css";
+@import "mobileMegaMenu.css";
+@import "responsive.css";
+@import "allMegaMenu.css";
+@import "common.css";
+@import "productDetails.css";
+@import "googleTranslate.css";
+@import "cartList.css";
 
 
 
 body {
     background-color: #ffffff !important;
 }
+

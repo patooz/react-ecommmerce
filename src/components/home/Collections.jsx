@@ -22,7 +22,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75" src="https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/890243/1.jpg?5383" alt=""/>
             <Card.Body>
@@ -33,7 +33,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75" src="https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/369033/1.jpg?4525" alt=""/>
             <Card.Body>
@@ -44,7 +44,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75 h-100" src="https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/7982911/1.jpg?5299" alt=""/>
             <Card.Body>
@@ -55,7 +55,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0"xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75 h-100" src="https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/253668/1.jpg?7121" alt=""/>
             <Card.Body>
@@ -66,7 +66,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75 h-100" src="https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/360454/1.jpg?1646" alt=""/>
             <Card.Body>
@@ -77,7 +77,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75 h-100" src="https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/253668/1.jpg?7105" alt=""/>
             <Card.Body>
@@ -88,7 +88,7 @@ export class Collections extends Component {
     </Card>
             </Col>
 
-            <Col className="p-0" key={1} xl={3} lg={3} md={3} sm={6} xs={6}>
+            <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box card w-100">
               <img className="center w-75 h-100" src="https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/221243/1.jpg?0940" alt=""/>
             <Card.Body>
